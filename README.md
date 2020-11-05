@@ -12,7 +12,7 @@
 -  ⚡ Fun fact:  I COMMIT BY ACCIDENT 
  
 ### I mostly write JavaScript, PHP and Python code
-### Also, sometimes
+ Also, sometimes i use
 - C#
 - Java
 - Kotlin
