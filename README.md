@@ -1,6 +1,6 @@
 ### Hellow Everyboooooooodyyyyyyyyyyyyyyyyyyyyyy 👋
 
- This is Erick , a living proof that you can do it all and best everytime
+ This is Erick , a living proof that you can do it all while doing the best work most of the time
  
 ### It's nice to see you staring at my profile 😄😄
 
@@ -10,4 +10,10 @@
 - 📫 How to reach me: call 911
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I COMMIT BY ACCIDENT
+ 
+### I mostly write JavaScript, PHP and Python code
+### Also, sometimes
+- C#
+- Java
+- Kotlin
 
