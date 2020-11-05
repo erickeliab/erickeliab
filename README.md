@@ -17,4 +17,5 @@
 - Java
 - Kotlin
 
-
+### Socials
+[instagram](www.instagram.com/erickeliab_dev)            [twitter](www.twitter.com/thrownstoneric1)                   [facebook](www.facebook.com/thrownstonericky)
