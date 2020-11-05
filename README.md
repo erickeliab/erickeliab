@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hellow Everyboooooooodyyyyyyyyyyyyyyyyyyyyyy 👋
 
-### This is Erick , a living proof that you can do it all and best everytime
+ This is Erick , a living proof that you can do it all and best everytime
+ 
+### It's nice to see you staring at my profile 😄😄
 
 - 🔭 I’m currently working on 10 projects 😄
 - 🌱 I’m currently learning Android development with Kotlin
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web development and devOps
 - 📫 How to reach me: call 911
 - 😄 Pronouns: He/Him
