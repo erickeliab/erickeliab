@@ -17,3 +17,6 @@
 - Java
 - Kotlin
 
+![alt text](https://github.com/erickmgongo/erickmgongo/blob/main/img/mern.png)
+![alt text](https://github.com/erickmgongo/erickmgongo/blob/main/img/python.jpg)
+![alt text](https://github.com/erickmgongo/erickmgongo/blob/main/img/php.png)
