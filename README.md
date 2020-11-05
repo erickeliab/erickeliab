@@ -18,4 +18,4 @@
 - Kotlin
 
 ### Socials
-[instagram](www.instagram.com/erickeliab_dev)            [twitter](www.twitter.com/thrownstoneric1)                   [facebook](www.facebook.com/thrownstonericky)
+[IG](www.instagram.com/erickeliab_dev)      ,      [twt](www.twitter.com/thrownstoneric1)           ,         [fb](www.facebook.com/thrownstonericky)
