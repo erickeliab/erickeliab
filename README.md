@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 -  ⚡ Fun fact:  I COMMIT BY ACCIDENT 
  
-### I mostly write JavaScript, PHP and Python code
+### I mostly write JavaScript, Nodejs, PHP and Python code
  Also, sometimes i use
 - C#
 - Java
