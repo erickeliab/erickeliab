@@ -11,11 +11,12 @@
 - 😄 Pronouns: He/Him
 -  ⚡ Fun fact:  I COMMIT BY ACCIDENT 
  
-### I mostly write JavaScript, Nodejs, PHP and Python code (with their several frameworks and libraries)
+### I mostly write JavaScript, Nodejs, PHP and Python code 
  Also, sometimes i use
 - C#
 - Java
 - Kotlin
+(with their several frameworks and libraries)
 
 ### Socials
 [IG](www.instagram.com/erickeliab_dev)      ,      [twt](www.twitter.com/thrownstoneric1)           ,         [fb](www.facebook.com/thrownstonericky)  ,  [in](https://www.linkedin.com/in/erick-mgongo-89848b172/)
