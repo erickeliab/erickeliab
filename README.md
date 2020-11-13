@@ -16,7 +16,7 @@
 - C#
 - Java
 - Kotlin
-(with their popular frameworks and libraries)
+(with their several popular frameworks and libraries)
 
 ### Socials
 [IG](www.instagram.com/erickeliab_dev)      ,      [twt](www.twitter.com/thrownstoneric1)           ,         [fb](www.facebook.com/thrownstonericky)  ,  [in](https://www.linkedin.com/in/erick-mgongo-89848b172/)
