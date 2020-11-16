@@ -1,6 +1,6 @@
 ### Hellow Everybooooooooodyyyyyyyyyyyyyyyyyyyyyy 👋
 
- This is Erick , a living proof that you can do it all while doing the best work most of the time
+ This is Erick , a living proof that you can do it all while doing the best work most of the tim
  
 ### It's nice to see you staring at my profile 😄😄
 
