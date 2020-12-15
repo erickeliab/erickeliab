@@ -5,7 +5,7 @@
 ### It's nice to see you staring at my profile 😄😄
 
 - 🔭 I’m currently working on 9 projects 😄
-- 🌱 I’m currently learning Android development with Kotlin
+- 🌱 I’m currently learning Android development with Kotlin,
 - 💬 Ask me about Web development and DevOps
 - 📫 How to reach me: send mail through erickemmanuel661@gmail.com
 - 😄 Pronouns: He/Him
