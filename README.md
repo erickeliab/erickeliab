@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickeliab&label=Profile%20views&color=0e75b6&style=flat" alt="erickeliab" /> </p>
 
+### It's nice to see you staring at my profile 😄😄
+
+- 🔭 I’m currently working on 9 projects 😄
+- 🌱 I’m currently learning Android development with Kotlin,
+- 💬 Ask me about Web development and DevOps
+- 📫 How to reach me: send mail through erickemmanuel661@gmail.com
+- 😄 Pronouns: He/Him
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erickeliab_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erickeliab_dev" height="30" width="40" /></a>
