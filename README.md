@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ERICK</h1>
-<h3 align="center">A SWE Specialized in (Java & JavaScript|TypeScript)</h3>
+<h3 align="center">A SWE Specialized in (Java & JavaScript)</h3>
 <h4> Fullstack <h4>
+  <h4>API & Microservices</h4>
+  <h4> UX/UI - Design & Development </h4>
 <h4>Sometimes i work with C# , PHP and Python</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickeliab&label=Profile%20views&color=0e75b6&style=flat" alt="erickeliab" /> </p>
