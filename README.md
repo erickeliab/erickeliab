@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ERICK</h1>
-<h3 align="center">A SWE Specialized in (Java & JavaScript)</h3>
+<h3 align="center">A Software Engineer (C# .Net Core & MERN)</h3>
 <h4> Fullstack <h4>
   <h6>API & Microservices</h6>
   <h6> UX/UI - Design & Development </h6>
-<h6>Sometimes i work with C# , PHP and Python</h6>
+<h6>Sometimes i work with Java , PHP and Python </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickeliab&label=Profile%20views&color=0e75b6&style=flat" alt="erickeliab" /> </p>
 
